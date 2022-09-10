@@ -1,2 +1,2 @@
-www.vmware.com^
+vmware.com
 ||staixooh.com^
